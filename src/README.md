@@ -14,4 +14,4 @@ In this book, you will learn about:
 
 Through practical examples and case studies, we illustrate how AI is changing the way people manage their money and plan for their financial futures. Whether you are a financial professional or an individual seeking to improve your personal finances, this book offers insights and strategies for harnessing the power of intelligent technologies to achieve your financial goals.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
