@@ -1,5 +1,3 @@
-Ethical Considerations
-=============================================================================================
 
 In this chapter, we will explore the ethical considerations related to the use of AI in personal finance. As the use of intelligent technologies continues to expand in the financial sector, it is important to consider the potential ethical implications of their use.
 

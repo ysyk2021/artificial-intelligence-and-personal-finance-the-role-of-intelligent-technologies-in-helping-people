@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Personal Finance
-=========================================
 
 In this chapter, we will discuss the role of artificial intelligence (AI) in personal finance and some of its benefits and limitations.
 

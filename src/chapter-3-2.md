@@ -1,5 +1,3 @@
-Components of Personal Finance Industry
-==============================================================================
 
 In this chapter, we will explore the different components of the personal finance industry, including financial institutions, products and services, and regulatory bodies.
 

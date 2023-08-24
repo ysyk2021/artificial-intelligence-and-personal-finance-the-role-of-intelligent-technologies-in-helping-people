@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Personal Finance
-=================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that has the potential to revolutionize the personal finance industry by providing intelligent solutions that help individuals manage their money more effectively. In this chapter, we will provide an overview of AI and its applications in personal finance.
 

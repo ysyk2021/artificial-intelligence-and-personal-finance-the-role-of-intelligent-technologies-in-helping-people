@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Personal Finance
-=====================================================================
 
 In this chapter, we will explore some of the ethical and legal issues related to the use of artificial intelligence (AI) in personal finance.
 

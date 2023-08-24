@@ -1,5 +1,3 @@
-Legal Framework
-======================================================================================
 
 In this chapter, we will explore the ethical and legal issues related to the use of AI in personal finance. As the use of intelligent technologies continues to expand in the financial sector, it is important to consider the ethical and legal implications of their use to ensure that they do not result in harm or discrimination towards individuals.
 

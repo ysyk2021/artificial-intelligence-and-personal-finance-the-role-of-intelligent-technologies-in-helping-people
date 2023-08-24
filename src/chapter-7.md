@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Personal Finance
-============================================
 
 In this chapter, we will discuss the emerging trends and future prospects of artificial intelligence (AI) in personal finance.
 

@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will provide an overview of the basics of artificial intelligence (AI) and machine learning techniques. Understanding these concepts is essential to appreciate the role that AI can play in personal finance and wealth management.
 

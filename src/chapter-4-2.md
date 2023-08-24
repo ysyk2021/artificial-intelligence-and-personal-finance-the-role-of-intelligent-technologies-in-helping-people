@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Personal Finance
-===============================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the way we manage our personal finances. However, there are also a number of challenges and limitations associated with the use of AI in personal finance. In this chapter, we'll explore some of these challenges and limitations.
 

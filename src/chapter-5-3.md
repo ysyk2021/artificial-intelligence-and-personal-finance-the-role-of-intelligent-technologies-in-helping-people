@@ -1,5 +1,3 @@
-Customer Service and Support
-==============================================================================
 
 In this chapter, we will explore how AI is being used to provide customer service and support in personal finance. With the increasing demand for 24/7 access to financial information and services, financial institutions are turning to AI-powered solutions to provide personalized support and assistance to their customers.
 

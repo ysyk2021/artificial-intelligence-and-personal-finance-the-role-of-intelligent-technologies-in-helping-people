@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 In this chapter, we will provide a background on artificial intelligence (AI) and the fundamental concepts necessary for understanding its role in personal finance.
 

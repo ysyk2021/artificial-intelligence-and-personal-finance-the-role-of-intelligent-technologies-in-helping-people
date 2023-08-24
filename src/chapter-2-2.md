@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) is a field of computer science focused on creating intelligent machines that can perform tasks typically requiring human intelligence, such as visual perception, speech recognition, decision-making, and language translation. In this chapter, we will explore the different types of AI technologies.
 

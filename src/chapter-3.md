@@ -1,5 +1,3 @@
-Chapter 3: Personal Finance Landscape
-=====================================
 
 In this chapter, we will explore the personal finance landscape, including global trends and the components of the personal finance industry.
 

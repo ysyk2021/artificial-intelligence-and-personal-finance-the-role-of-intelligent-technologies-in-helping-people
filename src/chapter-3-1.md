@@ -1,5 +1,3 @@
-Global Trends in Personal Finance and Wealth Management
-==============================================================================================
 
 In this chapter, we will explore the current global landscape of personal finance and wealth management. We will examine the trends and challenges that individuals face when it comes to managing their finances, and how artificial intelligence (AI) can be used to address these issues.
 
