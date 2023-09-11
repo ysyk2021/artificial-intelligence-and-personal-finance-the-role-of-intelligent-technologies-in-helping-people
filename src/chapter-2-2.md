@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of artificial intelligence (AI) and their relevance to helping people manage their money in personal finance. Understanding the various categories and approaches of AI is essential for comprehending how intelligent technologies can be applied to enhance financial decision-making and improve overall financial well-being. Let's delve into the key types of artificial intelligence.
 

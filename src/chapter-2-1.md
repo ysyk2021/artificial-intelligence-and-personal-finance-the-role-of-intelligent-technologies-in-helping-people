@@ -1,5 +1,4 @@
-Chapter: History of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the history of artificial intelligence (AI) and its evolution leading up to its role in helping people manage their money in personal finance. Understanding the historical milestones and breakthroughs in AI is crucial for comprehending the advancements that have shaped its application in the realm of personal finance. Let's delve into the key phases and developments that characterize the history of AI.
 
